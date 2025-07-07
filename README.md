@@ -1,1 +1,1 @@
-This is the assignment submissions for Data Science course
+This is the submissions for Data Science and Machine Learning
